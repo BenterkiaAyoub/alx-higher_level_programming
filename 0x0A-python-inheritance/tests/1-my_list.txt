@@ -73,4 +73,3 @@ Test append:
     >>> ml.append(10)
     >>> ml
     [10]
-
