@@ -26,4 +26,3 @@ if __name__ == "__main__":
                 print("{}: {}".format(obj.get('sha'), name))
     except ValueError as invalid_json:
         pass
-
