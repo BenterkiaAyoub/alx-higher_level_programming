@@ -44,4 +44,3 @@ def find_peak(list_of_integers):
         else:
             start = mid + 1
     return list_[start]
-
